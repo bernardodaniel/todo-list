@@ -1,0 +1,3 @@
+org.hibernate.dialect.OracleDialect
+jdbc:oracle:thin:@localhost:1521:notasfiscais
+oracle.jdbc.OracleDriver
